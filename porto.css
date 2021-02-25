@@ -1,0 +1,57 @@
+.navbar-brand{
+	font-family: Source Code Pro;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.navbar-nav{
+	margin-left: auto;
+	text-transform: uppercase;
+}
+
+.name{
+	font-weight: 350;
+	font-family: Arial;
+	text-shadow: 6px 4px 3px grey;
+}
+
+.lead{
+	font-family: Arial;
+	text-shadow: 6px 4px 3px grey;
+}
+
+section{
+	min-height: 300px;
+}
+
+.copy{
+	font-size: 20px;
+	font-family: Arial;
+}
+
+.form-group{
+	font-family: Arial;
+}
+
+h2{
+	font-family: Arial;
+	text-shadow: 5px 4px 3px grey;
+	font-weight: bold;
+}
+
+.portofolio{
+	background-color: #fae1dd;
+}
+
+.fb, .ig, .linked{
+	margin: 10px;
+}
+
+.jumbotron{
+	padding-top: 5rem;
+	background-color: #0099ff;
+}
+
+section{
+	padding-top: 5rem;
+}
